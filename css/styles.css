@@ -38,3 +38,16 @@ body {
     margin-bottom: 1rem;
 
 }
+
+.icon {
+    color:#fff;
+    height: 5rem;
+    width: 5rem;
+    font-size:1.75rem;
+    border-radius:100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
