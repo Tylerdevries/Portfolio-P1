@@ -131,7 +131,7 @@ I used the Jigsaw Validator to check for any CSS issues and to again quickly res
 
 I confirmed with the Lighthouse Tool in chrome that my site is easily readable and accessible. 
 
-![565986233598](https://user-images.githubusercontent.com/93283135/147104578-b135075d-3b22-476e-a836-cb282e1bbb0f.PNG)
+![555555555555555555555555555555555555555555555555555555](https://user-images.githubusercontent.com/93283135/147125198-fadd21e6-13f8-46b5-9b19-213da50ae118.PNG)
 
 ### Unfixed Bugs
 
