@@ -49,6 +49,14 @@ This section is where I first used a CSS wave effect created through createwaves
 
 ### The Features Section:
 
-The Features section gives a simple descripton of the features that will be implemented to the final design of a site built by TDV Web Design.
+The Features section gives a simple descripton and introduction of the features that will be implemented to the final design of a site built by TDV Web Design.
 
-Here I used the same design philsophy as in the header, Using a stock photo that both matched the colour scheme and 
+Here I used the same design philsophy as in the header, Using a stock photo that both matched the colour scheme and the business.
+
+I also used the gradient as a background in this section to keep a consistent colour scheme to the site.
+
+![6516516515615](https://user-images.githubusercontent.com/93283135/147099705-164ba2a2-728d-4a8b-a8da-1b8894e52f10.PNG)
+
+
+
+
