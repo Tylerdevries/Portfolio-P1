@@ -35,7 +35,8 @@ These buttons are in light blue and a deep green as I believe these soft colours
 
 This section is where I first used a CSS wave effect created through createwaves.io. I used this effect at the bottom of this section to create a nice effect and divison between the sections of the site.
 
-![654654564](https://user-images.githubusercontent.com/93283135/147096456-d06fdae7-918b-45a4-973f-f77e46be3f41.PNG)
+![22222222222222222222222222222222222222222222222222](https://user-images.githubusercontent.com/93283135/147124482-be8fea33-ae25-4259-97a9-d860f1157fd8.PNG)
+
 
 ### The Companies Section:
 
@@ -78,7 +79,8 @@ I created a small send button beneath the email.
 
 I again used the gradient as a background for this section with the wave design used at the top and bottom.
 
-![image](https://user-images.githubusercontent.com/93283135/147102287-438fc2ab-fd9c-465a-84c7-0f99abf66e55.png)
+![66666666666666666666666666666666666](https://user-images.githubusercontent.com/93283135/147124550-b3bb42e2-7c62-49b4-b383-f62aa33e0bb8.PNG)
+
 
 
 ### The footer:
