@@ -115,5 +115,41 @@ Code post fix:
 
 ![55585858585](https://user-images.githubusercontent.com/93283135/147103568-7d68c784-912a-489d-bc4a-c0f9c08744ca.PNG)
 
+## Validator Testing
+
+### HTML:
+
+I used the W3C validator to check for any issues in the code and to quickly resolve said issues.
+
+### CSS:
+
+I used the Jigsaw Validator to check for any CSS issues and to again quickly resolve them.
+
+### Accessbility:
+
+I confirmed with the Lighthouse Tool in chrome that my site is easily readable and accessible. 
+
+![565986233598](https://user-images.githubusercontent.com/93283135/147104578-b135075d-3b22-476e-a836-cb282e1bbb0f.PNG)
+
+### Unfixed Bugs
+
+No unfixed bugs
+
+## Deployment
+
+The site was deployed through Github pages. 
+
+The livelink can be found here https://tylerdevries.github.io/TDV-Web-Design/#
+
+## Credits
+
+I used the following sites as sources for images, CSS, HTML and Bootstrap components.
+
+unsplash.com
+getbootstrap.com
+fontawesome.com
+getwaves.io
+cssgradient.io
+
 
 
