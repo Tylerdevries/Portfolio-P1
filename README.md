@@ -33,6 +33,8 @@ I used two buttons titled Read More and Contact Me for an alternative route to t
 
 These buttons are in light blue and a deep green as I believe these soft colours suit the overall tone of the site. 
 
+This section is where I first used a CSS wave effect created through createwaves.io. I used this effect at the bottom of this section to create a nice effect and divison between the sections of the site.
+
 ![654654564](https://user-images.githubusercontent.com/93283135/147096456-d06fdae7-918b-45a4-973f-f77e46be3f41.PNG)
 
 ### The Companies Section:
@@ -42,8 +44,6 @@ Here I display a list of companies from left to right.
 This section is used to display companies the business may have worked with in the past to give the customer/ user a understanding as to the quality they may expect from TDV
 
 I used companies that would immediately be familiar to the user.
-
-This section is where I first used a CSS wave effect created through createwaves.io. I used this effect at the top and bottom of this section to create a nice effect and divison between the sections of the site.
 
 ![5151515151](https://user-images.githubusercontent.com/93283135/147097196-33e5180b-9c39-406d-be77-d79ad09c0f58.PNG)
 
@@ -55,8 +55,65 @@ Here I used the same design philsophy as in the header, Using a stock photo that
 
 I also used the gradient as a background in this section to keep a consistent colour scheme to the site.
 
+I again used the wave design at the top and bottom of this section to again create clear divison between the prior and upcoming section.
+
 ![6516516515615](https://user-images.githubusercontent.com/93283135/147099705-164ba2a2-728d-4a8b-a8da-1b8894e52f10.PNG)
 
+### The icons section:
+
+In this section I used icons found on fontawesome to create three simple and easy to read icons and headings further describing the services of the business.
+
+I used the gradient I created in CSS to surround the icons in a circle to keep consistency within the site.
+
+![6486866846](https://user-images.githubusercontent.com/93283135/147102215-6af6d3c3-7eb4-4d8d-9907-74f338fb090e.PNG)
+
+
+### Contact Me: 
+
+Here continued with the trend of section being half stock photo, again using a photo that fit the colour scheme of the site.
+
+I used a bootstrap Email compontent to create a way for the user to contact the business directly from the webpage.
+
+I created a small send button beneath the email. 
+
+I again used the gradient as a background for this section with the wave design used at the top and bottom.
+
+![image](https://user-images.githubusercontent.com/93283135/147102287-438fc2ab-fd9c-465a-84c7-0f99abf66e55.png)
+
+
+### The footer:
+
+I created a simple footer with links to social media platforms.
+
+I linked facebook and twitter.
+
+I customised these icons using CSS. 
+
+![898989889889898989](https://user-images.githubusercontent.com/93283135/147102370-f567fb2d-1e27-4889-b4c2-2db81a5a8932.PNG)
+
+## Testing
+
+I tested that the page works in the primary browsers used on desktop and mobile. (Edge, Chrome, Firefox and Safari)
+
+I confirmed that the project is perfectly responsive and works on all screen sizes using Developer Tools on Google Chrome.
+
+I confirmed that all sections are readable and easy to access.
+
+I confirmed that all elements are working, ie. Navbar, buttons and Email Form.
+
+## Bugs
+
+### Solved Bugs
+
+I initially had issues with images appearing on the deployed page, I fixed this issue by using proper relative paths in my img elements. 
+
+Code pre fix:
+
+![4141414141](https://user-images.githubusercontent.com/93283135/147103532-d538ff32-8172-40ee-b9e2-769b998681fc.PNG)
+
+Code post fix:
+
+![55585858585](https://user-images.githubusercontent.com/93283135/147103568-7d68c784-912a-489d-bc4a-c0f9c08744ca.PNG)
 
 
 
