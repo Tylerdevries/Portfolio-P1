@@ -140,6 +140,7 @@ No unfixed bugs
 ## Deployment
 
 The site was deployed through Github pages. 
+
 I used the following steps to deploy my page:
 1. Use GitHub Directory, navigate to the Settings Page.
 2. From the Settings menu select Pages.
@@ -154,9 +155,13 @@ The livelink can be found here https://tylerdevries.github.io/TDV-Web-Design/#
 I used the following sites as sources for images, CSS, HTML and Bootstrap components.
 
 unsplash.com
+
 getbootstrap.com
+
 fontawesome.com
+
 getwaves.io
+
 cssgradient.io
 
 
