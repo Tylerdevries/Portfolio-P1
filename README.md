@@ -140,6 +140,12 @@ No unfixed bugs
 ## Deployment
 
 The site was deployed through Github pages. 
+I used the following steps to deploy my page:
+1. Use GitHub Directory, navigate to the Settings Page.
+2. From the Settings menu select Pages.
+3. From the Source option select Main Branch and Root Folder
+4. Click save.
+5. Wait a couple of minutes and the page is live.
 
 The livelink can be found here https://tylerdevries.github.io/TDV-Web-Design/#
 
